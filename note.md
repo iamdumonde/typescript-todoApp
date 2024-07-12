@@ -1,1 +1,3 @@
 npm i todomvc-app-css
+
+npm run format : pour formater le format des vues...
