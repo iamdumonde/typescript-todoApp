@@ -4,9 +4,8 @@
     </div>
 </template>
 
-<script lang="ts" setup>
-
+<script setup lang="ts">
+import TodosComponent from '@/components/TodosComponent.vue';
 </script>
-import TodosComponent from '@/components/TodosComponent.vue'
 
-<style></style>
+<style scoped></style>
